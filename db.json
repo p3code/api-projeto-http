@@ -1,0 +1,28 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "nome": "Harry Potter e a Pedra Filosofal",
+      "preco": 25,
+      "tipo": "aventura"
+    },
+    {
+      "id": 2,
+      "nome": "Harry Potter e a Câmara Secreta",
+      "preco": 28,
+      "tipo": "aventura"
+    },
+    {
+      "id": 3,
+      "nome": "Harry Potter e o Prisioneiro de Azkaban",
+      "preco": 30,
+      "tipo": "aventura"
+    },
+    {
+      "id": 4,
+      "nome": "Harry Potter e o Cálice de Fogo",
+      "preco": 32,
+      "tipo": "Aventura"
+    }
+  ]
+}
